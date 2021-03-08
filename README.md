@@ -20,11 +20,11 @@ After a quick exploration the following subjects and issues where identified:
   * asdsa
   * asdasd
 
-# Univariate Exploration
+## Univariate Exploration
 
-# Bivariate Exploration
+## Bivariate Exploration
 
-# Multivariate exploration
+## Multivariate exploration
 
-# Conclusion
+## Conclusions
 
