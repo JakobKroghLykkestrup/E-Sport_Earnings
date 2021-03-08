@@ -5,10 +5,10 @@ E-sport has grown in attention, proffesionalism and popularity the last couple o
   * con3
 
 ## Code and Resources Used
-**Data:** Kaggle dataset URL
-**Python Version:** 3.7
-**Packages:** pandas, numpy, matplotlib, seaborn
-**Inspiration notebooks/repos:** 
+**Data:** Kaggle dataset URL *separate paragraph*.
+**Python Version:** 3.7 *separate paragraph*.
+**Packages:** pandas, numpy, matplotlib, seaborn *separate paragraph*.
+**Inspiration notebooks/repos:**  *separate paragraph*.
   * URL 1
   * url 2
   * Ken Jee: https://github.com/PlayingNumbers/ds_salary_proj
