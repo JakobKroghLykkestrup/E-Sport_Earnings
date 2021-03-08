@@ -1,5 +1,5 @@
 # E-Sport Earnings
-E-sport has grown in attention, proffesionalism and popularity the last couple of yers. This datasets contains info about 500 games from 1981 to 2021. The initial hypothesis is that the earnings and tournaments are centered around a few games, whereas the rest lag behind significantly. A structured Exploratory Data Analysis(EDA) is performed to gain insight. The following conclusions has been drawn from the process:
+E-sport has grown in attention, proffesionalism and popularity the last couple of yers. This datasets contains info about 500 games from 1981 to 2021. The initial hypothesis is that the earnings and tournaments are centered around a few newer games, whereas the rest lag behind significantly. A structured Exploratory Data Analysis(EDA) is performed to gain insight. The following conclusions has been drawn from the process:
   * con1
   * con2
   * con3
