@@ -1,2 +1,2 @@
-# E-Sport_Earnings
+# E-Sport Earnings
 EDA of E-sports earnings
