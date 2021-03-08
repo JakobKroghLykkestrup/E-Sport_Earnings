@@ -7,8 +7,7 @@ E-sport has grown in attention, proffesionalism and popularity the last couple o
 ## Code and Resources Used
 **Data:** Kaggle dataset URL\
 **Python Version:** 3.7\
-**Packages:** pandas, numpy, matplotlib, seaborn\
-
+**Packages:** pandas, numpy, matplotlib, seaborn
 **Inspiration notebooks/repos:**  
   * URL 1
   * url 2
