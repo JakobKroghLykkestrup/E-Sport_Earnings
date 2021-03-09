@@ -9,18 +9,21 @@ E-sport has grown in attention, proffesionalism and popularity the last couple o
 **Python Version:** 3.7\
 **Packages:** pandas, numpy, matplotlib, seaborn\
 **Inspiration notebooks/repos:**  
-  * URL 1
-  * url 2
-  * Ken Jee: https://github.com/PlayingNumbers/ds_salary_proj
+  * Notebook structure: https://www.kaggle.com/bextuychiev/my-6-part-powerful-eda-template/notebook#3.-Univariate-Exploration
+  * Graph inspiration: https://www.kaggle.com/spearlikecorn/eda-e-sport-tournaments
+  * Ken Jee full project: https://github.com/PlayingNumbers/ds_salary_proj
 
 # Basic Exploration and Data Cleaning
 After a quick exploration the following subjects and issues where identified:
-  * as
-  * asd
-  * asdsa
-  * asdasd
+  * There are 513 unique games from the period 1981 - 2020 
+  * Data is aggregated so each game appears with one row with a total of 7 columns. 
+  * There are no missing values and datatypes are correct
+  * The variability is huge for alle the columns (eg. Range for total earnings is 0 - 2,2e+08)
 
 ## Univariate Exploration
+I start by looking further into how the variability/dispersion is for each column.
+SHOW MAJOR FINDINGS WITH SOME GRAPHS 
+Since the top nth games make up more than 90 % of the earnings we split the data into a top nth.
 
 ## Bivariate Exploration
 
