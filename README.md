@@ -16,7 +16,7 @@ E-sport has grown in attention, proffesionalism and popularity the last couple o
 # Basic Exploration and Data Cleaning
 After a quick exploration the following subjects and issues where identified:
   * There are 513 unique games from the period 1981 - 2020 
-  * Data is aggregated so each game appears with one row with a total of 7 columns. 
+  * Data is aggregated so each game appears with one row with a total of 7 columns
   * There are no missing values and datatypes are correct
   * The variability is huge for alle the columns (eg. Range for total earnings is 0 - 2,2e+08)
 
