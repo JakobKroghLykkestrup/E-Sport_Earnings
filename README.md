@@ -21,7 +21,7 @@ After a quick exploration the following subjects and issues where identified:
   * The variability is huge for alle the columns (eg. Range for total earnings is 0 - 2,2e+08)
 
 ## Univariate Exploration
-I start by looking further into how the variability/dispersion is for each column.
+I started looking further into how the variability/dispersion is for each column.
 SHOW MAJOR FINDINGS WITH SOME GRAPHS 
 Since the top nth games make up more than 90 % of the earnings we split the data into a top nth.
 
